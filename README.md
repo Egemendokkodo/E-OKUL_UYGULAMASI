@@ -1,5 +1,5 @@
 # E-OKUL_UYGULAMASI
-# E-OKUL_APPLICATION
+# E-SCHOOL_APPLICATION
 an application that students can see their grade results and teachers can change or add grade results.
 <TR> 
   Öğrencilerin kendi notlarını görebildiği ve öğretmenlerin öğrencilerin notlarını sisteme girebildiği bir uygulama.
