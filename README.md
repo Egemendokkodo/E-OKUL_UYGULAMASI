@@ -1,6 +1,6 @@
 # E-OKUL_UYGULAMASI
 # E-SCHOOL_APPLICATION
-an application that students can see their grade results and teachers can change or add grade results.
+
 TR
   Öğrencilerin kendi notlarını görebildiği ve öğretmenlerin öğrencilerin notlarını sisteme girebildiği bir uygulama.
   Bu uygulamayı Python, CSS, MySQL kullanarak yaptım. Kütüphane olarak PyQt5, mysql.connector, time modüllerini kullandım.
